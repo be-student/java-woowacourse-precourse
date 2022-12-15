@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-baseball" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-lotto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-onboarding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-pairmatching-precourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-subway-path-precourse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-vendingmachine-precourse" vcs="Git" />
+  </component>
+</project>
