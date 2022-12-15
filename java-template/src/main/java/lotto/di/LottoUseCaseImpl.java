@@ -1,11 +1,15 @@
-package lotto.domain;
+package lotto.di;
 
 import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
-import lotto.di.BuyLottoCommand;
-import lotto.di.LottoUseCase;
-import lotto.di.WinningNumbersCommand;
+import lotto.domain.LottoGenerator;
+import lotto.domain.LottoResult;
+import lotto.domain.LottoResultDto;
+import lotto.domain.Lottos;
+import lotto.domain.LottosDto;
+import lotto.domain.Money;
+import lotto.domain.WinningNumbers;
 
 public class LottoUseCaseImpl implements LottoUseCase {
 

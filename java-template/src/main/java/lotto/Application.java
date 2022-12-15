@@ -3,9 +3,9 @@ package lotto;
 import lotto.client.InputView;
 import lotto.client.LottoClient;
 import lotto.client.OutputView;
+import lotto.di.LottoUseCaseImpl;
 import lotto.domain.LottoGenerator;
 import lotto.domain.LottoNumbersGenerator;
-import lotto.domain.LottoUseCaseImpl;
 import lotto.domain.RandomLottoNumbersGenerator;
 
 public class Application {
