@@ -1,14 +1,6 @@
 
-f
-6java-lotto/src/main/java/lotto/domain/BonusNumber.java,9\1\918c02b7dd131b262a45d63643d32abda363548d
 h
 8java-lotto/src/main/java/lotto/util/NumberValidator.java,b\1\b1167a882e29070bd86d0494341223358e79bb86
-k
-;java-template/src/main/java/lotto/util/NumberValidator.java,7\f\7f14bbd76f67bca7732ef630e9a84ebd3e600dd3
-l
-<java-template/src/main/java/lotto/config/LottoConstants.java,b\d\bd5a5ba198ae2943ae0228e6f35bf2b3187f9888
-i
-9java-template/src/main/java/lotto/di/BuyLottoCommand.java,9\1\91c3300063066249fbd8db977079460303e57ff8
 o
 ?java-template/src/main/java/lotto/di/WinningNumbersCommand.java,a\d\ad5723221b0761f9f6bd3b47f68cf4e7325a8c5e
 f
@@ -17,3 +9,19 @@ l
 <java-template/src/main/java/lotto/domain/LottoResultDto.java,9\5\95545a9a8d9a739210c8720b3a9a7d60948d166d
 i
 9java-template/src/main/java/lotto/client/LottoClient.java,b\4\b4a01e4d1cee0d1357b533c2145dd0ae85bbb1a2
+c
+3java-template/src/main/java/lotto/domain/Lotto.java,2\d\2de462b3dbcee6c66350bf9c5e48102366b77221
+i
+9java-template/src/main/java/lotto/di/BuyLottoCommand.java,9\1\91c3300063066249fbd8db977079460303e57ff8
+l
+<java-template/src/main/java/lotto/config/LottoConstants.java,b\d\bd5a5ba198ae2943ae0228e6f35bf2b3187f9888
+f
+6java-lotto/src/main/java/lotto/domain/BonusNumber.java,9\1\918c02b7dd131b262a45d63643d32abda363548d
+k
+;java-template/src/main/java/lotto/util/NumberValidator.java,7\f\7f14bbd76f67bca7732ef630e9a84ebd3e600dd3
+d
+4java-lotto/src/test/java/lotto/domain/LottoTest.java,c\4\c4047ffee5bbb6e45186616c3ebac62f41c9c4e4
+g
+7java-bridge/src/test/java/bridge/domain/BridgeTest.java,1\0\10352cf6d3e6f2a7211e91500fcbeb3f158223e2
+o
+?java-template/src/test/java/lotto/util/NumberValidatorTest.java,8\6\869c359ca674c389b9da624c40d6098841e99cde
