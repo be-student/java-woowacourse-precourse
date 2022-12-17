@@ -36,6 +36,7 @@ class NumberValidatorTest {
     @Test
     void toInt_메서드는_숫자로_변환한다() {
         assertThat(NumberValidator.toInt("2342")).isEqualTo(2342);
+        assertThat(NumberValidator.toInt("-2342")).isEqualTo(-2342);
     }
 
     @ParameterizedTest
@@ -57,6 +58,7 @@ class NumberValidatorTest {
     @Test
     void toLong_메서드는_숫자로_변환한다() {
         assertThat(NumberValidator.toLong("2342")).isEqualTo(2342);
+        assertThat(NumberValidator.toLong("-2342")).isEqualTo(-2342);
     }
 
     @ParameterizedTest
